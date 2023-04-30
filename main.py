@@ -24,7 +24,7 @@ while True:
             extrato+=(f"Depósito de R${valor:.2f}\n")
     if opcao == "s":
         valor = float(input("Selecione o valor a sacar:"))
-        if valor > saldo + limite or valor < 0
+        if valor > saldo + limite or valor < 0:
             print("Valor inválido")
         elif numero_saques == LIMITE_SAQUES:
             print("Tentativas de saque esgotadas")
