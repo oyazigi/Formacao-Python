@@ -1,11 +1,12 @@
 Metadata-Version: 2.1
 Name: DB-Integration
-Version: 0.0.1
+Version: 0.0.3
 Summary: Test integration using MongoDB and SQL
 Home-page: https://github.com/oyazigi/super-duper-octo-funicular/tree/main/Task_07
 Author: Victor Yazigi
 Requires-Python: >3.6
 Description-Content-Type: text/markdown
+License-File: LICENSE.txt
 
 # DB_Integration
 
