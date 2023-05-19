@@ -45,3 +45,5 @@ print(db.list_collection_names)
 
 def function_to_be_used_as_example(arg1):
     print(arg1)
+
+#coding...
