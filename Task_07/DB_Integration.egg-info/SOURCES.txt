@@ -1,5 +1,9 @@
+LICENSE.txt
 README.md
 setup.py
+DB_Integration/Task_Pymongo.py
+DB_Integration/Task_SQL.py
+DB_Integration/__init__.py
 DB_Integration.egg-info/PKG-INFO
 DB_Integration.egg-info/SOURCES.txt
 DB_Integration.egg-info/dependency_links.txt

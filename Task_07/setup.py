@@ -8,7 +8,7 @@ with open("requirements.txt") as f:
 
 setup(
     name="DB_Integration",
-    version="0.0.1",
+    version="0.0.3",
     author="Victor Yazigi",
     description="Test integration using MongoDB and SQL",
     long_description=page_description,
