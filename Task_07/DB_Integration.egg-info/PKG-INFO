@@ -1,0 +1,34 @@
+Metadata-Version: 2.1
+Name: DB-Integration
+Version: 0.0.3
+Summary: Test integration using MongoDB and SQL
+Home-page: https://github.com/oyazigi/super-duper-octo-funicular/tree/main/Task_07
+Author: Victor Yazigi
+Requires-Python: >3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE.txt
+
+# DB_Integration
+
+Description.
+The Package DB_Integration is used to:
+- Make the creation of an integrated Database to make it easier to start coding
+- Integrate your APP With MongoDB
+- Integrate your APP With SQL
+
+## Installation
+
+Use the package manager [pip](https://pip.pyna.io/en/stable/) to install DB_Integration
+
+'''bash
+pip install DB_Integration
+'''
+
+## Usage
+'''python
+from DB_Integration import Task_Pymongo
+function_to_be_used_as_example(arg1)
+'''
+
+## Author
+Victor Yazigi
