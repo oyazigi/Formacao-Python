@@ -105,3 +105,4 @@ for result in session.scalars(count):
 connection.close()
 
 #Victor Yazigi
+#coding
