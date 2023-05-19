@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3089287c-1ff6-48f8-87cc-00d42927729e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DB_Integration/__init__.py" afterDir="false" />
+    <list default="true" id="3089287c-1ff6-48f8-87cc-00d42927729e" name="Changes" comment="Adicionando task 7">
       <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB_Integration.egg-info/PKG-INFO" beforeDir="false" afterPath="$PROJECT_DIR$/DB_Integration.egg-info/PKG-INFO" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB_Integration.egg-info/SOURCES.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DB_Integration.egg-info/SOURCES.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB_Integration.egg-info/requires.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DB_Integration.egg-info/requires.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB_Integration.egg-info/top_level.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DB_Integration.egg-info/top_level.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/DB_Integration-0.0.1-py3-none-any.whl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/DB_Integration-0.0.1.tar.gz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +64,14 @@
       <option name="presentableId" value="Default" />
       <updated>1683753793501</updated>
     </task>
+    <task id="LOCAL-00001" summary="Adicionando task 7">
+      <created>1684468242856</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684468242856</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,6 +84,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adicionando task 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adicionando task 7" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

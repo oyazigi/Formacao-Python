@@ -103,3 +103,5 @@ for result in session.scalars(count):
     print(result)
 
 connection.close()
+
+#Victor Yazigi
