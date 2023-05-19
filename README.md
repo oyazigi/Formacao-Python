@@ -6,3 +6,4 @@
 <p><h3> Task 4 - Integrando Python com SQLite e MongoDB </h3></p> 
 <p><h3> Task 5 - Criando uma API com Flask no Ambiente COLAB </h3></p> 
 <p><h3> Task 6 - Análise de dados com Python e Pandas </h3></p> 
+<p><h3> Task 7 - Descomplicando a Criação de Pacotes de Processamento de Imagens em Python </h3></p> 
